@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets - API keys live here, never commit it
+.env
+
+# Downloaded repos and search indexes (rebuildable, can be large)
+data/
